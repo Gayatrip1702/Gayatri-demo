@@ -1,3 +1,13 @@
+## 📝 Business Questions
+
+1. The CEO wants to view the time series of revenue data for the year 2011 to identify seasonal trends and support forecasting.
+
+2. The CMO wants to identify the top 10 countries generating the highest revenue, excluding the United Kingdom.
+
+3. The CMO wants to identify the top 10 customers based on revenue and understand their contribution.
+
+4. The CEO wants to analyze product demand across different countries to identify high-demand regions for expansion.
+
 # 📊 Online Retail Data Analysis (Power BI Project)
 
 ## 📌 Project Overview
